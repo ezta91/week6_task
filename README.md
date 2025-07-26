@@ -1,5 +1,3 @@
-# week6_task
-
 Learning Objectives:
 Expand your conditional logic using if-else and if-elif-else statements
 
